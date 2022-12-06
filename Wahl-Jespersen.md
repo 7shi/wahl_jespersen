@@ -43,7 +43,7 @@ We must also mention the letters with circumflexes, which have greatly hindered 
 > 
 > Ma por secur inradication it deve esser ne solmen facil in letion, ma anc in activ usation, do per su structura.
 
-Before attacking specific points, I think it is good to establish the general guidelines to follow in order to obtain the most suitable language.
+**E. W.** Before attacking specific points, I think it is good to establish the general guidelines to follow in order to obtain the most suitable language.
 
 I believe that, in order to be a true usable and viable language, regardless of the specific purpose for which it is created, every artificial language must comply with the common laws of natural languages, therefore being above all:
 
