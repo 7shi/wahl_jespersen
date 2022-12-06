@@ -8,8 +8,8 @@ Translation of "DISCUSSION PRI INTERNATIONAL LINGUE"
 
 Translation from Occidental to English was done by ChatGPT.
 
-* [Wahl-Jespersen.txt]()
+* [Wahl-Jespersen.txt](https://github.dev/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.txt)
 
 This is a formatted markdown of the log.
 
-* [Wahl-Jespersen.md]()
+* [Wahl-Jespersen.md](https://github.dev/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.md)
