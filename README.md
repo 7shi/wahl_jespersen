@@ -12,4 +12,4 @@ Translation from Occidental to English was done by ChatGPT.
 
 This is a formatted markdown of the log.
 
-* [Wahl-Jespersen.md](https://github.com/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.txt)
+* [Wahl-Jespersen.md](https://github.com/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.md)
