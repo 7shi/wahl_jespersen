@@ -8,7 +8,7 @@ Translation of "DISCUSSION PRI INTERNATIONAL LINGUE"
 
 Translation from Occidental and Novial to English was done by [ChatGPT](https://chat.openai.com/).
 
-* [Wahl-Jespersen.txt](https://github.com/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.txt)
+* [log.txt](https://github.com/7shi/wahl_jespersen/blob/main/log.txt)
 
 Formatted markdown of the above log
 
