@@ -6,10 +6,10 @@ Translation of "DISCUSSION PRI INTERNATIONAL LINGUE"
 * [File:Discussiones inter E. de Wahl e O. Jespersen.pdf](https://commons.wikimedia.org/wiki/File:Discussiones_inter_E._de_Wahl_e_O._Jespersen.pdf
 )
 
-Translation from Occidental to English was done by ChatGPT.
+Translation from Occidental and Novial to English was done by [ChatGPT](https://chat.openai.com/).
 
 * [Wahl-Jespersen.txt](https://github.com/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.txt)
 
-This is a formatted markdown of the log.
+Formatted markdown of the above log
 
 * [Wahl-Jespersen.md](https://github.com/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.md)
