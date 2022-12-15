@@ -12,3 +12,7 @@ Translation from Novial and Occidental to English using [ChatGPT](https://chat.o
 
 * [Wahl-Jespersen.md](https://github.com/7shi/wahl_jespersen/blob/main/Wahl-Jespersen.md)
 * [log.txt](https://github.com/7shi/wahl_jespersen/blob/main/log.txt)
+
+Translation from English to Japanese using [DeepL](https://www.deepl.com/translator):
+
+* [en-ja.md](https://github.com/7shi/wahl_jespersen/blob/main/en-ja.md)
