@@ -110,7 +110,7 @@ If *chascun* seems unnatural to the French, certainly *chaki, chako* would shock
 > 
 > Li combinatione *ch* es usat in N com in Oc in *chambre* etc. cun li angli pronuntiatione. Ma me non pove aproba ke in Oc li sam literes es in altri casus pronuntiat com in D machen: *chronometre, psycholog, architect, schisma*. Ti suone es desfacil a multi nationes, e on choca nule per scripte e pronuntia *k* in omni dis vordes. Nota anke *orkestre*, vor F have li sam pronuntiatione malgre li scripto *ch* (Pg cun *qu*). In Oc-lexike on trova in pluri casus du o tri formes: *cristian, christian; kemie, chemie* (e *chimie*) *monarc, monarch, monark, chlor, clor*.
 
-**O. J.** I prefer to reserve *qu* (beyond words like question, etc.) for the interrogative pronoun words: *qui, qual, quand, quam*, and use *k* in the words that connect phrases (clauses): *ke, kand* and others (*quand*= D wann, *kand* = D wenn).
+**O. J.** I prefer to reserve *qu* (beyond words like *questione*, etc.) for the interrogative pronoun words: *qui, qual, quand, quam*, and use *k* in the words that connect phrases (clauses): *ke, kand* and others (*quand*= D wann, *kand* = D wenn).
 
 The combination *ch* is used in N as in Oc in *chambre*, etc. with the English pronunciation. But I cannot approve that in Oc the same letters are pronounced in other cases as in D machen: *chronometre, psycholog, architect, schisma*. This sound is difficult for many nations, and one shocks nobody by writing and pronouncing *k* in all of these words. Note also *orkestre*, because F has the same pronunciation despite the spelling *ch* (Pg with *qu*). In Oc-lexicon one finds in several cases two or three forms: *cristian, christian; kemie, chemie* (and *chimie*) *monarc, monarch, monark, chlor, clor*.
 
