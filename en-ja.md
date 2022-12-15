@@ -1,10 +1,10 @@
 > DISCUSSION ON INTERNATIONAL LANGUAGE
 
-国際語討論
+国際語についての議論
 
 > [Reproduced from the June 1935 Special Issue (no. 6) of the Novial journal *Novialiste*. Summary of a discussion between Otto Jespersen of Denmark, author of *Novial*, and Edgar de Wahl of Tallinn, Estonia, author of *Occidental*, about their respective languages and auxiliary languages generally. The article is presented in such a way that each participant is represented as discussing in his own language.]
 
-[雑誌『Novialiste』1935年6月特別号（第6号）より転載。ノヴィアルの作者であるデンマークのオットー・イェスペルセンとオクツィデンタルの作者であるエストニア・タリンのエドガー・デ・ヴァールが、それぞれの言語と補助言語一般について議論した内容をまとめたものです。論文は各参加者が自分の言語で議論しているように表現されています。] 
+［雑誌『Novialiste』1935年6月特別号（第6号）より転載。ノヴィアルの作者であるデンマークのオットー・イェスペルセンとオクツィデンタルの作者であるエストニア・タリンのエドガー・デ・ヴァールが、それぞれの言語と補助言語一般について議論した内容をまとめたものです。論文は各参加者が自分の言語で議論しているように表現されています。］
 
 > Abreviationes: D = deutsch. Dan = dansk. E = English. F = français. Hol = nederlandsch. It = italiano. Pg = portugues. R = russ. Ru = Rumin. S = español. Sk = skandinavisk. N = Novial (in novi forme). Oc = Occidental. LI = Lingue International. Espo = Esperanto.
 
@@ -14,7 +14,7 @@
 
 > During the end of April and the beginning of May 1935, the author of Occidental, E. de Wahl, visited the author of Novial, Dr. Otto Jespersen in Helsingør, and the two had a friendly discussion about the principles of an auxiliary international language, which is presented in abbreviated form, in such a way that each author is represented as speaking in their own language.
 
-1935年4月末から5月初めにかけて、オクツィデンタルの作者であるエドガー・デ・ヴァールは、ヘルシンゲルにノヴィアルの作者オットー・イェスペルセン博士を訪ねた。二人は国際補助語の原則について友好的な議論を交わした。それは省略された形で提示され、それぞれの著者が自国語で話しているように表現される。
+1935年4月末から5月初めにかけて、オクツィデンタルの作者であるエドガー・デ・ヴァールは、ヘルシンゲルにノヴィアルの作者オットー・イェスペルセン博士を訪ねました。二人は国際補助語の原則について友好的な議論を交わしました。言語名は省略された形で示され、それぞれの作者が自分の言語で話しているように表現されます。
 
 > **O. J.** I am very happy that you have come to visit me, and I thank you cordially for making the long journey from Tallinn to Helsingør to speak with me about the causes that interest us both. I hope that our conversations will help to clarify some of the many problems connected with the question of the best language for international use.
 
@@ -27,12 +27,12 @@
 > Before beginning the discussion about the points that separate us, we want to emphasize that we agree on many things despite the differences between our languages. We both belong to the naturalistic school of interlinguistics: both Occidental and Novial are polar opposites of purely a priori languages like, for example, Ro; Volapük to some degree is based on existing languages, but has changed natural words in a truly perverted manner, and the whole system of inflections was so complicated and unnatural that it today only evokes laughter.
 > Esperanto was a great progress, and we must admire many things in that language, - but as a whole Esperanto is absolutely unacceptable, because the language contains many elements that are not found in any language. Let us mention just a few of these unnatural features: The system of pronominal words: *ĉiuj tiuj kiuj* (all those who), *tiam* (then), *neniel* (in no way) and many similar. Even outside the pronominal words one finds fantastic words like *edzo* (husband), *edzino* (wife). A very poor quality of the language is the system of endings: all nouns end in *-o*, all adjectives in *-a*, adverbs in *-e*; in verbs we find *-as, -is, -os* as signs of the three primary tenses, *-i* as the infinitive. We are against such artificial things. The worst thing in Esperanto is the elimination of the most well-known international forms and affixes and their replacement with artificial and repugnant monstrosities.
 
-私たちを隔てている点についての議論を始める前に、私たちは、言語の違いにもかかわらず、多くの点で意見が一致していることを強調したいと思います。私たちはともに自然主義的な言語学に属している。オクシデンタル語とノヴィアル語は、たとえばロ語のような純粋にアプリオリな言語とは正反対のものです。ヴォラピュックはある程度既存の言語に基づいていますが、自然の言葉を実に変質的に変化させており、屈折のシステム全体は非常に複雑かつ不自然で、今日では笑いを誘うだけになっています。
-エスペラント語は大きな進歩であり、その言語の多くの点を賞賛しなければなりません。しかし、全体としてのエスペラント語は、どの言語にもない要素を多く含んでいるので、絶対に容認することができないのです。このような不自然な特徴のいくつかを挙げてみましょう。代名詞のシステム：*ĉiuj tiuj kiuj* (all those who), *tiam* (then), *neniel* (in no way) などなど。代名詞以外でも、*edzo* (夫), *edzino* (妻)のような不思議な単語があります。名詞はすべて*-o*、形容詞はすべて*-a*、副詞は*-e*で終わり、動詞では*-as, -is, -os* が三大時制のしるしとしてあり、*-i* が不定詞としてあります。私たちは、このような人工的なものには反対です。エスペラント語の最悪の事態は、最もよく知られた国際的な形や接辞が削除され、人工的で反感を買うような怪物に置き換えられていることです。
+私たちを隔てている点についての議論を始める前に、私たちは、言語の違いにもかかわらず、多くの点で意見が一致していることを強調したいと思います。私たちはともに自然主義的な言語学に属しています。オクツィデンタルとノヴィアルは、たとえばロー語のような純粋にアプリオリな言語とは正反対のものです。ヴォラピュクはある程度既存の言語に基づいていますが、自然の言葉を実に変質させており、屈折のシステム全体は非常に複雑かつ不自然で、今日では笑いを誘うだけになっています。
+エスペラントは大きな進歩であり、その言語の多くの点を賞賛しなければなりません。しかし、全体としてのエスペラントは、どの言語にもない要素を多く含んでいるので、絶対に容認することができません。このような不自然な特徴のいくつかを挙げてみましょう。代名詞のシステム: ĉiuj tiuj kiuj (all those who), tiam (then), neniel (in no way) 等。代名詞以外でも edzo (夫), edzino (妻) のような奇妙な単語があります。名詞はすべて -o 、形容詞はすべて -a 、副詞は -e で終わり、動詞では -as, -is, -os が三大時制の印としてあり、-i が不定詞としてあります。私たちは、このような人工的なものには反対です。エスペラントの最悪の事態は、最もよく知られた国際的な形や接辞が削除され、人工的で反感を買うような怪物に置き換えられていることです。
 
 > We must also mention the letters with circumflexes, which have greatly hindered the diffusion of Esperanto. We cannot accept these letters in LI, which do not exist in all printers in all countries. But if in this way we find many things in Esperanto, which we strongly condemn as unnatural, still there is a small word that we both accept and even consider very happy, despite that it is not found in any national language, and therefore would seem to be against our principles: the preposition *ye*, which Zamenhof has invented and created out of nothing. It is used in all those cases where one needs a preposition but where none of the ordinary prepositions can be used, and thus it makes it possible to assign a completely precise meaning to each other preposition.
 
-また、エスペラント語の普及を大きく妨げている、字上符のついた文字についても言及しなければなりません。これらの文字は、どの国のどの印刷所にもあるわけではありませんから、LIで受け入れるわけにはいきません。しかし、このように、エスペラント語の中に、私たちが不自然だと強く非難するものがたくさんあるとすれば、どの国の言語にも存在せず、私たちの原則に反するように思われるにもかかわらず、私たちが受け入れ、とても幸せだとさえ思う小さな言葉があります：ザメンホフが無から作り出した前置詞*ye*です。これは、前置詞が必要だが普通の前置詞は使えないという場合に使われ、その結果、他の各前置詞に完全に正確な意味を割り当てることができるようになるのです。
+また、エスペラントの普及を大きく妨げている、字上符のついた文字についても言及しなければなりません。これらの文字は、どの国のどの印刷所にもあるわけではありませんから、LI で受け入れるわけにはいきません。しかし、このようにエスペラントの中に私たちが不自然だと強く非難するものがたくさんありますが、どの国の言語にも存在せず、私たちの原則に反するように思われるにもかかわらず、私たちが受け入れ、とても幸せだとさえ思う小さな言葉があります：ザメンホフが無から作り出した前置詞 ye です。これは前置詞が必要だが普通の前置詞は使えないという場合に使われ、その結果、他の各前置詞に完全に正確な意味を割り当てることができるようになります。
 
 > **E. W.** Before attacking specific points, I think it is good to establish the general guidelines to follow in order to obtain the most suitable language.
 > 
@@ -48,27 +48,15 @@
 
 **E. W.** 具体的な点を攻める前に、最も適した言語を得るために従うべき一般的なガイドラインを確立することが良いと思います。
 
-私は、真の意味で使用可能で実行可能な言語であるためには、それが作られる特定の目的にかかわらず、すべての人工言語は自然言語の共通法則に従わなければならず、したがって、何よりも重要であると信じています。
+私は、真に有用で実用的な言語であるためには、それがどのような目的で作られたかにかかわらず、すべての人工言語は自然言語の共通法則に従わなければならないと、信じています。したがって、何よりも：
 
-1) 有機的で自律的な全体であり、さまざまな言葉の無計画な集合体ではなく、それ自身の法則に従って生き、成長し、それ自身にとって異質なものをすべて調和させ同化させるものであること。- 実際、生きた使い方を実現できた人工言語はすべて、その本質において自律的なものであった。一方、Solresol, Latino sine Flexione, Basic などの言語は、生きた自律言語というレベルには至っていない。
+1) 全体が有機的で自律的であり、さまざまな言葉の無計画な集合体ではなく、それ自身の法則に従って生き、成長し、それ自身にとって異質なものをすべて調和させ同化させるものであること。- 実際、生きた使い方を実現できた人工言語はすべて、その本質において自律的なものであった。一方、Solresol, Latino sine Flexione, Basic などの言語は、生きた自律言語というレベルには至っていない。
 2) 私たちの特定の目的のためには、音声学、文字、表現方法において、私たちのヨーロッパ言語に共通する国際的な形式に基づいていなければならない。  
 最も困難なことは、L.I.を一般的に使用するように導入することである。そのためには、次のような資質も備えていなければならない。  
 a) 文明的なヨーロッパ人なら誰でも，事前の指導なしに理解できるものでなければならない。  
 b) 難解で理解しがたい形式や言葉のパズルによって大衆にショックを与えてはならず，ほとんど自然言語のような外観を備えていなければならない。
 
-しかし、確実な進出のためには、読みやすいだけでなく、その構造上、積極的に使いやすいものでなければならない。
-
-**O. J.** 私にとって、そのような言語の最高の原則は容易さです。国際語が必要な理由は、自分と同じ国の言葉を話したり書いたりしない人々とコミュニケーションをとりたいと願うすべての人が感じる困難さにある。
-なぜなら、すべての国語には不規則性があり、イディオム（慣用句、つまり構成要素から用途や意味を推測できないが、ネイティブの言語感覚によって要求される言い回しや構文）があふれているからである。したがって、国際語としては、構造の規則性と単純性の高さを要求しなければならないが、これは、とりわけ派生要素の経済性によって達成される。
-
-しかし、容易さには別の意味もある。それは、人がすでに知っていることは容易であるということであり、私たちは多くの国々に使われる言語を望んでいるので、すでに最も多くの人々に知られている言葉や形式を見つけることが不可欠なのです。
-つまり、すでに完全に、あるいは部分的に国際的である要素が、私たちの構築する言語の最初の部分を形成しなければならないのです。このことは、自然性の要求にもつながる。しかし、ある人にとって自然に見えることが、他の人にとっては奇妙に見えることもあることを忘れてはならない。
-
-さらに、私が強調したいのは、望ましい言語は表現力豊かでなければならず、現代の文化人の思考を正確かつ的確に表現できるものでなければならないということで、私が「最小限の言語」（『言語』216ページ参照）と表現した言語のような一種のピジン言語であってはならない。
-
-ユーフォニーについては、発音のしやすさや全体的な自然さと密接な関係があるため、ここでは特に言及しません。
-
-私の動機はあなたと異なるが、それでも本質的な点では大きな違いはないと感じており、おそらくこれから具体的な点の検討に進むことができるだろう。
+しかし、確実な進出のためには、読みやすいだけでなく、その構造上、積極的に使いやすいものでなければなりません。
 
 > **O. J.** For me, the highest principle in such a language is ease. The reason why one needs an international language is the difficulty felt by all those who wish to communicate with people who do not speak and write the same national language as oneself.
 > Learning another language perfectly requires enormous effort, first of all because all national languages have numerous irregularities and are full of idioms - phrases and constructions whose use and meaning cannot be inferred from the constituent parts, but which are demanded by the language sense of the natives. For an international language, we must therefore demand the highest degree of regularity and simplicity in the structure, and this is achieved among other things through economy in derivational elements.
@@ -81,6 +69,18 @@ b) 難解で理解しがたい形式や言葉のパズルによって大衆に�
 > I do not want to mention euphony specifically here, because it is closely connected with ease of pronunciation and overall naturalness.
 > 
 > My motivation differs from yours, but still I feel that on essential points there is not great difference, and perhaps we can now proceed to the consideration of specific points.
+
+**O. J.** 私にとって、そのような言語の最高の原則は容易さです。国際語が必要な理由は、自分と同じ国の言葉を話したり書いたりしない人々とコミュニケーションをとりたいと願うすべての人が感じる困難さにあります。
+なぜなら、すべての国語には不規則性があり、イディオム（慣用句、つまり構成要素から用途や意味を推測できないが、ネイティブの言語感覚によって要求される言い回しや構文）があふれているからです。したがって、国際語としては、構造の規則性と単純性の高さを要求しなければなりませんが、これはとりわけ派生要素の経済性によって達成されます。
+
+しかし、容易さには別の意味もあります。それは人がすでに知っていることは容易であるということであり、私たちは多くの国々に使われる言語を望んでいるので、すでに最も多くの人々に知られている言葉や形式を見つけることが不可欠なのです。
+つまり、すでに完全に、あるいは部分的に国際的である要素が、私たちの構築する言語の最初の部分を形成しなければなりません。このことは自然性の要求にもつながります。しかし、ある人にとって自然に見えることが、他の人にとっては奇妙に見えることもあることを忘れてはなりません。
+
+さらに、私が強調したいのは、望ましい言語は表現力豊かでなければならず、現代の文化人の思考を正確かつ的確に表現できるものでなければならないということです。私が「最小限の言語」（『言語』216ページ参照）と表現した言語のような一種のピジン言語であってはなりません。
+
+音の美しさについては、発音のしやすさや全体的な自然さと密接な関係があるため、ここでは特に言及しません。
+
+私の動機はあなたとは異なりますが、それでも本質的な点では大きな違いはないと感じており、おそらくこれから具体的な点の検討に進むことができるでしょう。
 
 # II. アルファベット
 
@@ -139,7 +139,7 @@ ch*の組み合わせは、NでもOcと同様に英語の発音で*chambre*な�
 > 
 > The same applies to the ending *o* for short verbal substantives, but also used with the suffix *-es-o* often leads to unfamiliar forms: for example. *servo* (D Dienst, not Knecht), your word *serv-ist* (D Diener) gives to *-ist* the false Esp-ic sense of a professional.
 
-**E. W.** 古代のエスポ、イドなどのシステムの大きな欠陥の一つは、多くの国際語、特に *-ion, -iv, -ura, -or, -ntie, -ment* や *-ari, -al, -ic, -ità* の動名詞を規則的に形成できないことで、これらの国際性の高い接辞を持っておらず、ラジカルとの語源的一貫性のない例外とするか、しばしば切断されてさえいます、例えば、このように。*direkc i o, dona c o, disonan c o, rezoluc i o* など）、あるいは、独自の規則に従って形成し、奇妙な野蛮語を生み出すことになる（例：direktejo, direktejo）。*direktejo, direktistaro, eksplodema, ekzekuciisto, neo* (negation), *imperiestro*, etc.など。
+**E. W.** 古代のエスペラント、イドなどのシステムの大きな欠陥の一つは、多くの国際語、特に *-ion, -iv, -ura, -or, -ntie, -ment* や *-ari, -al, -ic, -ità* の動名詞を規則的に形成できないことで、これらの国際性の高い接辞を持っておらず、ラジカルとの語源的一貫性のない例外とするか、しばしば切断されてさえいます、例えば、このように。*direkc i o, dona c o, disonan c o, rezoluc i o* など）、あるいは、独自の規則に従って形成し、奇妙な野蛮語を生み出すことになる（例：direktejo, direktejo）。*direktejo, direktistaro, eksplodema, ekzekuciisto, neo* (negation), *imperiestro*, etc.など。
 文法が単純で規則正しく見えるのはハッタリで、何千もの例外はすべて語彙の中に隠されており、例えば、同じ語根でつながった意味の、文法的には最小限のまとまりのある一連の単語を見つけることができるのだろうか。*例えば、audi, audienco, auditorio; stari, stabila, stacio, konstanta, substanco, substantivo, circonstanco; konduki, konduktoro, dedukti, dedukcio, induki, produkti, redukti*などです。これらの重複に加えて、*kiomeco*（量）、*pafilego*（大砲）、*arigadi*（蓄積）、*ega*（極端）、*arbaro、arema、rabakiro、eren、ala_135↩o、kuracejo、kialo*などの自立したチャレーションも見受けられる。
 
 このような混沌の中で、私は特別な探求を行い、国際語に存在するすべての接尾辞の真の派生法則と正しい意味を見出すことが可能になったのである。私は、新しい接尾辞を考案したわけでも、新しい意味を与えたわけでもなく、その一部を廃止して許可する権限があると考えたわけでもない。しかし、すべての体系が最大の多様性を示すのは、まさにこの問題においてである。したがって、OcとNの決定的な違いは、脱動詞の派生と動詞の不定詞の形にも現れているのである。
@@ -240,7 +240,7 @@ D klären, erklären, R objusnät', vyjasnät', projasnät', izjasnät' を比�
 
 > **O. J.** Please note that *arma, crona* are good Novial derivatives, better than *armisa, cronisa*. Otherwise, it is in rare cases justified to extend to some extent the function of natural suffixes, if this leads to some useful and easily usable result. About *-isa* after adjectives, why restrict this suffix to derived adjectives? *Steril-isa*: how does one know whether *steril* is derived or not?
 
-**O. J.**は *arma, crona* は *armisa, cronisa* よりも良い Novial 派生語であることに注意してください。また、まれに、自然な接尾辞の機能をある程度拡張することが正当化されることがありますが、それは、それが何か便利で簡単に使える結果につながるのであれば、です。形容詞の後ろの*-isa*についてですが、なぜ派生形容詞に限定するのですか？*ステリル-イサ*：ステリル*が派生形かどうかはどうやって判断するんですか？
+**O. J.** arma, crona は armisa, cronisa よりも良いノヴィアル派生語であることに注意してください。また、まれに、自然な接尾辞の機能をある程度拡張することが正当化されることがありますが、それは、それが何か便利で簡単に使える結果につながるのであれば、です。形容詞の後ろの*-isa*についてですが、なぜ派生形容詞に限定するのですか？*ステリル-イサ*：ステリル*が派生形かどうかはどうやって判断するんですか？
 
 > **E. W.** Almost all adjectives in *-il* are originally and psychologically derived: *viril, docil, facil, civil* etc. and even if in Oc this has been lost, one will always treat a word in *-il* instinctively in analogy with the many already known: *civilisation, sterilisation* etc.
 
@@ -357,7 +357,7 @@ impossibil, irregulari, immobil* などの形については。私自身は、*�
 
 > What we have discussed naturally does not contain everything possible to discuss, but certainly has clarified the position and advantages and disadvantages of each system. The one emphasizes more the systematic regularity, the other more the elastic convenience, but certainly the future evolution of the question of L.I. will be a practical synthesis of both principles. The desired future international language cannot be very far from Occidental and Novial.
 
-これまで議論してきたことは、当然ながら議論しうるすべてのことを含んでいるわけではないが、それぞれのシステムの位置づけと利点・欠点が明確になったことは確かである。一方は体系的な規則性をより強調し、他方は弾力的な利便性をより強調するが、確かにL.I.の問題の将来の展開は、両方の原則の実際的な総合であろう。望ましい未来の国際語は、オクシデンタルからもノビアルからも、それほど遠く離れてはいないはずである。
+これまで議論してきたことは、当然ながら議論しうるすべてのことを含んでいるわけではないが、それぞれのシステムの位置づけと利点・欠点が明確になったことは確かである。一方は体系的な規則性をより強調し、他方は弾力的な利便性をより強調するが、確かにL.I.の問題の将来の展開は、両方の原則の実際的な総合であろう。望ましい未来の国際語は、オクツィデンタルからもノヴィアルからも、それほど遠く離れてはいないはずである。
 
 ***Otto Jespersen / Edgar Wahl***
 
