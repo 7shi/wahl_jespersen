@@ -139,7 +139,7 @@ ch の組み合わせは、N でも Oc と同様に英語の発音で chambre �
 > 
 > The same applies to the ending *o* for short verbal substantives, but also used with the suffix *-es-o* often leads to unfamiliar forms: for example. *servo* (D Dienst, not Knecht), your word *serv-ist* (D Diener) gives to *-ist* the false Esp-ic sense of a professional.
 
-**E. W.** 古代のエスペラント、イドなどのシステムの大きな欠陥の一つは、多くの国際語、特に *-ion, -iv, -ura, -or, -ntie, -ment* や *-ari, -al, -ic, -ità* の動名詞を規則的に形成できないことで、これらの国際性の高い接辞を持っておらず、ラジカルとの語源的一貫性のない例外とするか、しばしば切断されてさえいます、例えば、このように。*direkc i o, dona c o, disonan c o, rezoluc i o* など）、あるいは、独自の規則に従って形成し、奇妙な野蛮語を生み出すことになる（例：direktejo, direktejo）。*direktejo, direktistaro, eksplodema, ekzekuciisto, neo* (negation), *imperiestro*, etc.など。
+**E. W.** 過去のエスペラント、イドなどのシステムの大きな欠陥の一つは、多くの国際語、特に *-ion, -iv, -ura, -or, -ntie, -ment* や *-ari, -al, -ic, -ità* の動名詞を規則的に形成できないことで、これらの国際性の高い接辞を持っておらず、ラジカルとの語源的一貫性のない例外とするか、しばしば切断されてさえいます、例えば、このように。*direkc i o, dona c o, disonan c o, rezoluc i o* など）、あるいは、独自の規則に従って形成し、奇妙な野蛮語を生み出すことになる（例：direktejo, direktejo）。*direktejo, direktistaro, eksplodema, ekzekuciisto, neo* (negation), *imperiestro*, etc.など。
 文法が単純で規則正しく見えるのはハッタリで、何千もの例外はすべて語彙の中に隠されており、例えば、同じ語根でつながった意味の、文法的には最小限のまとまりのある一連の単語を見つけることができるのだろうか。*例えば、audi, audienco, auditorio; stari, stabila, stacio, konstanta, substanco, substantivo, circonstanco; konduki, konduktoro, dedukti, dedukcio, induki, produkti, redukti*などです。これらの重複に加えて、*kiomeco*（量）、*pafilego*（大砲）、*arigadi*（蓄積）、*ega*（極端）、*arbaro、arema、rabakiro、eren、ala_135↩o、kuracejo、kialo*などの自立したチャレーションも見受けられる。
 
 このような混沌の中で、私は特別な探求を行い、国際語に存在するすべての接尾辞の真の派生法則と正しい意味を見出すことが可能になったのである。私は、新しい接尾辞を考案したわけでも、新しい意味を与えたわけでもなく、その一部を廃止して許可する権限があると考えたわけでもない。しかし、すべての体系が最大の多様性を示すのは、まさにこの問題においてである。したがって、OcとNの決定的な違いは、脱動詞の派生と動詞の不定詞の形にも現れているのである。
