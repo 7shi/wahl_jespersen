@@ -16,8 +16,8 @@ Translation from Novial and Occidental to English using GPT-3.5, reviewed by Fab
 * [log.txt](log.txt) — GPT-3.5 translation log
 * [translation-review-en.md](translation-review-en.md) — Fable 5 review and corrections
 
-Translation from English to Japanese using [DeepL](https://www.deepl.com/translator):
+Translation from English to Japanese using [DeepL](https://www.deepl.com/translator), reviewed by Fable 5 and revised by Sonnet 4.6:
 
 * [en-ja.md](en-ja.md)
-
-The English sections in en-ja.md are kept in sync with Wahl-Jespersen.md using [sync-en.py](sync-en.py).
+* [translation-review-ja.md](translation-review-ja.md) — Fable 5 review and corrections
+* [sync-en.py](sync-en.py) — script to keep English sections in en-ja.md in sync with Wahl-Jespersen.md
