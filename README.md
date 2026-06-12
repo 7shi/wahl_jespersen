@@ -12,15 +12,15 @@ Original text:
 
 Translation from Novial and Occidental to English using GPT-3.5, reviewed by Fable 5 and revised by Sonnet 4.6:
 
-* [Wahl-Jespersen.md](Wahl-Jespersen.md)
-* [log.txt](log.txt) — GPT-3.5 translation log
+* [Wahl-Jespersen-en.md](Wahl-Jespersen-en.md)
+* [log-en.txt](log-en.txt) — GPT-3.5 translation log
 * [translation-review-en.md](translation-review-en.md) — Fable 5 review and corrections
 
 Translation from English to Japanese using [DeepL](https://www.deepl.com/translator), reviewed by Fable 5 and revised by Sonnet 4.6:
 
-* [en-ja.md](en-ja.md)
+* [Wahl-Jespersen-ja.md](Wahl-Jespersen-ja.md)
 * [translation-review-ja.md](translation-review-ja.md) — Fable 5 review and corrections
-* [sync-en.py](sync-en.py) — script to keep English sections in en-ja.md in sync with Wahl-Jespersen.md
+* [sync-en.py](sync-en.py) — script to keep English sections in Wahl-Jespersen-ja.md in sync with Wahl-Jespersen-en.md
 
 Summary in English by Fable 5, translated to Japanese by Sonnet 4.6:
 
