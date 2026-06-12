@@ -14,7 +14,7 @@ Translation from Novial and Occidental to English using GPT-3.5, reviewed by Fab
 
 * [Wahl-Jespersen.md](Wahl-Jespersen.md)
 * [log.txt](log.txt) — GPT-3.5 translation log
-* [translation-review.md](translation-review.md) — Fable 5 review and corrections
+* [translation-review-en.md](translation-review-en.md) — Fable 5 review and corrections
 
 Translation from English to Japanese using [DeepL](https://www.deepl.com/translator):
 
