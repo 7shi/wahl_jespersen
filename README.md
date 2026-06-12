@@ -21,3 +21,8 @@ Translation from English to Japanese using [DeepL](https://www.deepl.com/transla
 * [en-ja.md](en-ja.md)
 * [translation-review-ja.md](translation-review-ja.md) — Fable 5 review and corrections
 * [sync-en.py](sync-en.py) — script to keep English sections in en-ja.md in sync with Wahl-Jespersen.md
+
+Summary in English by Fable 5, translated to Japanese by Sonnet 4.6:
+
+* [summary-en.md](summary-en.md) — English summary
+* [summary-ja.md](summary-ja.md) — Japanese summary
