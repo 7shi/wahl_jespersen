@@ -16,6 +16,11 @@
 # Separators (&nbsp;) and signatures (***) are kept.
 
 
+from pathlib import Path
+HERE = Path(__file__).parent
+ROOT = HERE.parent
+
+
 def collapse_blanks(lines):
     out = []
     for l in lines:
@@ -27,7 +32,7 @@ def collapse_blanks(lines):
     return out
 
 
-with open('summary-ja.md') as f:
+with open(ROOT / 'summary-ja.md') as f:
     summary = [l.rstrip('\n') for l in f]
 # Drop the '# ' title and the '## 要約' heading (both overlap the template);
 # demote any remaining '## ' section (## 二つの立場) to '### '.
@@ -40,7 +45,7 @@ for l in summary:
     out.append(l)
 summary = '\n'.join(collapse_blanks(out))
 
-with open('Wahl-Jespersen-ja.md') as f:
+with open(ROOT / 'Wahl-Jespersen-ja.md') as f:
     body = [l.rstrip('\n') for l in f]
 # Remove English quote lines, demote section headers, then collapse the gaps.
 # The first non-blank line (document title in Japanese) becomes a '## ' heading.
@@ -52,12 +57,12 @@ for i, l in enumerate(body):
         break
 body = '\n'.join(collapse_blanks(body))
 
-with open('intro-ja.template.md') as f:
+with open(HERE / 'intro-ja.template.md') as f:
     template = f.read()
 
 result = template.replace('{summary}', summary).replace('{body}', body)
 
-with open('intro-ja.md', 'w') as f:
+with open(HERE / 'intro-ja.md', 'w') as f:
     f.write(result)
 
 print('Wrote intro-ja.md')

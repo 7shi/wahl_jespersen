@@ -9,9 +9,12 @@
 # - Replace each '> ' line in Wahl-Jespersen-ja.md with '> ' + the corresponding WJ line,
 #   matched positionally from the top.
 
-with open('Wahl-Jespersen-en.md') as f:
+from pathlib import Path
+ROOT = Path(__file__).parent.parent
+
+with open(ROOT / 'Wahl-Jespersen-en.md') as f:
     wj = f.readlines()
-with open('Wahl-Jespersen-ja.md') as f:
+with open(ROOT / 'Wahl-Jespersen-ja.md') as f:
     enja = f.readlines()
 
 wj_en = [l.rstrip('\n') for l in wj
@@ -31,7 +34,7 @@ for l in enja:
     else:
         result.append(l)
 
-with open('Wahl-Jespersen-ja.md', 'w') as f:
+with open(ROOT / 'Wahl-Jespersen-ja.md', 'w') as f:
     f.write('\n'.join(result) + '\n')
 
 print(f'Updated {wj_idx} lines in Wahl-Jespersen-ja.md')
