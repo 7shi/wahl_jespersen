@@ -27,7 +27,7 @@ Summary in English by Fable 5, translated to Japanese by Sonnet 4.6:
 * [summary-en.md](summary-en.md) — English summary
 * [summary-ja.md](summary-ja.md) — Japanese summary
 
-Japanese introductory article generated from a template:
+Introductory articles generated from templates in [templates/](templates/):
 
-* [templates/intro-ja.template.md](templates/intro-ja.template.md) — template for the introductory article
-* [scripts/make-intro-ja.py](scripts/make-intro-ja.py) — script to generate intro-ja.md from the template
+* [scripts/make-intro-en.py](scripts/make-intro-en.py) — generates intro-en.md
+* [scripts/make-intro-ja.py](scripts/make-intro-ja.py) — generates intro-ja.md
