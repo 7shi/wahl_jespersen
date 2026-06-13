@@ -57,12 +57,12 @@ for i, l in enumerate(body):
         break
 body = '\n'.join(collapse_blanks(body))
 
-with open(HERE / 'intro-ja.template.md') as f:
+with open(ROOT / 'templates' / 'intro-ja.template.md') as f:
     template = f.read()
 
 result = template.replace('{summary}', summary).replace('{body}', body)
 
-with open(HERE / 'intro-ja.md', 'w') as f:
+with open(ROOT / 'intro-ja.md', 'w') as f:
     f.write(result)
 
 print('Wrote intro-ja.md')

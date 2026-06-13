@@ -29,5 +29,5 @@ Summary in English by Fable 5, translated to Japanese by Sonnet 4.6:
 
 Japanese introductory article generated from a template:
 
-* [scripts/intro-ja.template.md](scripts/intro-ja.template.md) — template for the introductory article
-* [scripts/make-intro-ja.py](scripts/make-intro-ja.py) — script to generate scripts/intro-ja.md from the template
+* [templates/intro-ja.template.md](templates/intro-ja.template.md) — template for the introductory article
+* [scripts/make-intro-ja.py](scripts/make-intro-ja.py) — script to generate intro-ja.md from the template
